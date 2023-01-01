@@ -1,0 +1,50 @@
+{
+  "incourse": [
+    {
+      "id": 1,
+      "course_id": "ict601",
+      "course_name": "Digital Signal Processing",
+      "marks": [
+        {
+          "id": 11809048,
+          "mid": 18,
+          "presentation": 5,
+          "attedance": 5,
+          "assignment": 8,
+          "total": 36
+        },
+        {
+          "id": "11809001",
+          "mid": "17",
+          "presentation": "7",
+          "attedance": "5",
+          "assignment": "5",
+          "total": "34"
+        },
+        {
+          "id": "11809038",
+          "mid": "18",
+          "presentation": "8",
+          "attedance": "5",
+          "assignment": "5",
+          "total": "36"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_id": "ict603",
+      "course_name": "Digital Communication",
+      "marks": [
+        {
+          "id": "123",
+          "mid": "3",
+          "presentation": "4",
+          "attedance": "5",
+          "assignment": "6",
+          "total": "523"
+        }
+      ]
+    }
+  ]
+}
